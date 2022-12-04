@@ -1,0 +1,7 @@
+
+#Q) Write a Program to dispaly *'s in Right Angled Triangled Form
+for i in range(6):
+  for j in range(i):
+    print("*",end='   ')
+  print("\n") 
+#  
